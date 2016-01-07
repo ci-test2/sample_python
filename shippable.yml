@@ -1,5 +1,5 @@
 language: python
-build_image: drydock/u12pytall:tip
+build_image: drydock/u12pyt:tip
 python:
   - 2.6
   - 2.7
